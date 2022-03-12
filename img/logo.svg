@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 550 113.4"
+   version="1.1"
+   sodipodi:docname="algorand-algo-logo.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <script />
+  <svg:metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>algorand-algo-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="1.5713484"
+     inkscape:cx="139.05255"
+     inkscape:cy="117.41508"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <svg:title
+     id="title2">algorand-algo-logo</svg:title>
+  <svg:polygon
+     points="36,85 52.4,56.7 68.7,28.3 71.4,23.8 72.6,28.3 77.6,47 72,56.7 55.6,85 39.3,113.4 58.9,113.4 75.3,85 83.8,70.3 87.8,85 95.4,113.4 113,113.4 105.4,85 97.8,56.7 95.8,49.4 108,28.3 90.2,28.3 89.6,26.2 83.4,3 82.6,0 65.5,0 65.1,0.6 49.1,28.3 32.7,56.7 16.4,85 0,113.4 19.6,113.4 "
+     id="polygon4"
+     transform="translate(16.546299)"
+     style="fill:#44aa00" />
+  <script />
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:64.919px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:1.62298"
+     x="116.89851"
+     y="50.534676"
+     id="text14109"
+     transform="scale(1.0859715,0.92083445)"><svg:tspan
+       sodipodi:role="line"
+       id="tspan14107"
+       x="116.89851"
+       y="50.534676"
+       style="stroke-width:1.62298;fill:#d4aa00">UMATIBANK</svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="150.36296"
+     y="140.57796"
+     id="text14443"><svg:tspan
+       sodipodi:role="line"
+       id="tspan14441"></svg:tspan></svg:text>
+  <svg:text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:90.3118px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:2.25779"
+     x="113.57965"
+     y="126.51527"
+     id="text21011"
+     transform="scale(1.1521302,0.86795748)"><svg:tspan
+       sodipodi:role="line"
+       id="tspan21009"
+       x="113.57965"
+       y="126.51527"
+       style="stroke-width:2.25779;fill:#88aa00">WALLET</svg:tspan></svg:text>
+</svg:svg>
